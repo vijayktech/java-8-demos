@@ -1,6 +1,6 @@
 # java-8-demos
 
-* Create a Porject in IntelliJ IDEA and then push the code to GitHub as belo steps
+
 
 	• To configure User details to Git
 	git config --global user.email "vijay.techgeek@gmail.com"
